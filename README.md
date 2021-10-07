@@ -31,3 +31,16 @@ From **Table 1**, we can observe that the computation time of these models is
 closely related to the number of edges in a graph and the budget we provided. And the optimization solver was not efficient in solving these models in large networks. Computational experiments also illustrate that solving SIR-LT-dynamic model is more challenging than solving the other models, as some instances are practically unsolvable within 24 hours in this dynamic model. 
 
 ![](https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/Table-1.png)
+
+### Included files
+
+Inputs -  the connected Watts-Strogatz small-world graphs we generated in the paper 
+
+SI.ipynb, SIS.ipynb, SIR.ipynb - three LT optimization models provided in the paper
+
+### Requirements
+
+This project relies on the `docplex` package to solve integer linear programming model,  more instructions can be found here:
+
+- https://pypi.org/project/docplex/
+- https://ibmdecisionoptimization.github.io/docplex-doc/
