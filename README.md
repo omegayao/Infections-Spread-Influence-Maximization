@@ -3,10 +3,9 @@ A repository to supplement the paper "Modeling the Spread of Infectious Diseases
 
 ### Comparison of Different Edge Densities
 
-
-(a) SIS-LT model             | (b) SIR-LT model 
-:-------------------------:|:-------------------------:
 ![](https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIS_compared.png)  |  ![](https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIR_compared.png)
+:-------------------------:|:-------------------------:
+(a) SIS-LT model             | (b) SIR-LT model 
 
 **Fig. 1** Comparison of different edge densities in LT optimization model with initial values $|V|=50, T=70$,$ t_0=5, B=5.$ 
 
@@ -14,9 +13,9 @@ We use three connected Watts-Strogatz small-world graphs of different edge densi
 
 It can be seen in **Fig. 1 (a)** that, at a given time period ($t>10$), the difference between the number of susceptible and infected individuals becomes larger as the edge density increases. The similar phenomenon also happens between the number of infected and recovered individuals in the end stage of SIR-LT model, as shown in **Fig. 1 (b)**. Moreover, from above figures, we can also find out the time when the number of infections peaked for the first time becomes shorter as the edge density increases.
 
-(a)              | (b) 
-:-------------------------:|:-------------------------:
 ![](https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIR-dynamic.png)  |  ![](https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIR-masks.png)
+:-------------------------:|:-------------------------:
+(a)              | (b) 
 
 **Fig. 2** Diagram of the SIR-LT dynamic network model with initial values $|V|=50,|V_1|/|V|=1/2, T=70$, $t_0=5,B=5,n_0=1$. (a) the susceptible, infected and recovered population fraction curves; (b) fraction of individuals wearing masks versus time in the network $G$.
 
