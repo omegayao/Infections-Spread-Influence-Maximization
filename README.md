@@ -6,7 +6,7 @@ A repository to supplement the paper "Modeling the Spread of Infectious Diseases
 ![SIS-LT model](https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIS_compared.png "SIS-LT model")![SIR-LT model](https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIR_compared.png "SIR-LT model")
 
 <center class="half">    
-<img src="https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIS_compared.png" alt="SIS-LT model"/><img src="https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIR_compared.png" alt="SIR-LT model"/>
+<img src="https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIS_compared.png" width="200" alt="SIS-LT model"/><img src="https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIR_compared.png" width="200" alt="SIR-LT model"/>
 </center>
 
 
