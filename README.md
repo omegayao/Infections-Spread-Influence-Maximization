@@ -3,7 +3,9 @@ A repository to supplement the paper "Modeling the Spread of Infectious Diseases
 
 ### Comparison of Different Edge Densities
 
-![SIS-LT model](https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIS_compared.png)![SIR-LT model](https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIR_compared.png)
+<figure class="half">    
+<img src="https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIS_compared.png" alt="SIS-LT model"> <img src="https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIR_compared.png" alt="SIR-LT model">
+</figure>
 
 
 
