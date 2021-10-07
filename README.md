@@ -9,6 +9,9 @@ A repository to supplement the paper "Modeling the Spread of Infectious Diseases
 <img src="https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIS_compared.png" width="200" alt="SIS-LT model"/><img src="https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIR_compared.png" width="200" alt="SIR-LT model"/>
 </center>
 
+SIS-LT model             |  SIR-LT model
+:-------------------------:|:-------------------------:
+![](https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIS_compared.png)  |  ![](https://github.com/omegayao/Infections-Spread-Influence-Maximization/blob/main/Figures/SIR_compared.png)
 
 
 We use three connected Watts-Strogatz small-world graphs of different edge densities for comparison. Each node joined with $5,7$ and $10$ nearest neighbors in a initial ring topology, which generates three graphs of size $m =100, 150, 250$. Other parameters: the number of nodes $n = 50$, the random reconnection probability $p=1/2$, the ratio $|V_1|/n = 1/2$, the period $T=70$, the budget $B =5$. 
