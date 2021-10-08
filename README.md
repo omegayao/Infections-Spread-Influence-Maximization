@@ -39,7 +39,7 @@ SI.ipynb, SIS.ipynb, SIR.ipynb - three LT optimization models provided in the pa
 
 ### Requirements
 
-This project relies on the `docplex` package to solve integer linear programming models,  more instructions can be found here:
+This project relies on the `docplex` package to solve integer linear optimization models,  more instructions can be found here:
 
 - https://pypi.org/project/docplex/
 - https://ibmdecisionoptimization.github.io/docplex-doc/
