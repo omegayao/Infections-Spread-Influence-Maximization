@@ -7,7 +7,6 @@ Inputs -  the connected Watts-Strogatz small-world graphs we used in the paper
 
 SI.ipynb, SIS.ipynb, SIR.ipynb - three LT optimization models provided in the paper
 
-Supplement.pdf - Some experiments to supplement the paper
 
 ### Requirements
 
